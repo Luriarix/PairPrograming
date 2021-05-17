@@ -4,8 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Runner {
-	
-	
+
 	public String factorial(int num) {
 		int factorial = 2;
 		int remainder = num;
@@ -61,5 +60,7 @@ public class Runner {
 		
 	}
 
+	
+	
 	
 }
